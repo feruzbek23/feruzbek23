@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Feruzbek</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=feruzbek23&label=Profile%20views&color=0e75b6&style=flat" alt="feruzbek23" /> </p>
 
+- 🥷 Software Engineer at **Bayer**
 - 📫 How to reach me **feruzbek.dev@gmail.com**
 - 🌍 I'm mostly active within the **GoGrokEngineers**
 <h3 align="left">Connect with me:</h3>
